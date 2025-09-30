@@ -37,5 +37,6 @@ def get_warriors_got():
 
 @app.get("/cursosPlatzi")
 def get_çursos():
-rows = ["Docker", "Bash", "Linux", "Ingles", "Python", "Javascript", "Azure", "AWS", "GCP", "DevOps"]
+rows = ["Docker", "Bash", "Linux", "corte","Ingles", "Python", "Javascript", "Azure", "AWS", "GCP", "DevOps"]
 return rows
+
